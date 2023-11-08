@@ -13,3 +13,4 @@ project ("BowlEngine")
 
 # Incluya los subproyectos.
 add_subdirectory ("BowlEngine")
+add_subdirectory ("PlayGround")
